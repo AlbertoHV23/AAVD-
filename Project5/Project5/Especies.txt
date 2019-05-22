@@ -1,0 +1,12 @@
+Gato
+Perro
+Conejo
+Cuyo
+Pez
+Caballo
+Cocodrilo
+Mono
+Simio
+Cerdo
+Chango 
+Dinosaurio

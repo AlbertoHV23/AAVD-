@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\alber\source\repos\project5\project5\source.cpp(1105): warning C4101: 'FechaHoy': unreferenced local variable
+c:\users\alber\source\repos\project5\project5\source.cpp(1153): warning C4101: 'mascotausuario': unreferenced local variable
+c:\users\alber\source\repos\project5\project5\source.cpp(1199): warning C4101: 'mascotausuario': unreferenced local variable
+c:\users\alber\source\repos\project5\project5\source.cpp(986): warning C4172: returning address of local variable or temporary: FechaOk
+  Project5.vcxproj -> C:\Users\alber\source\repos\Project5\Debug\Project5.exe
